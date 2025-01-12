@@ -1,0 +1,1 @@
+{0: 'Bercak Daun', 1: 'Daun Sehat', 2: 'Hawar Daun', 3: 'Karat Daun'}
